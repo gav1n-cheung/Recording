@@ -16,7 +16,7 @@ Video Website : [CS231n-斯坦福](https://www.bilibili.com/video/BV1nJ411z7fe?f
 Recording : [笔记文件](DeepLearning/CS231n.pdf)
 ### d2l : 李沐
 Video Website : [动手学深度学习-pytorch](https://courses.d2l.ai/zh-v2/)  
-Recording : [笔记文件](DeepLearing/DeepLearning.pdf)
+Recording : [笔记文件](DeepLearning/DeepLearning.pdf)
 ## CPP
 ### C++面向对象高级编程 : 侯捷
 Video Website : [GeekBand(Youtube)](https://www.youtube.com/watch?v=2S-tJaPKFdQ&list=PL-X74YXt4LVZ137kKM5dNfCIC4tsScerb)  
