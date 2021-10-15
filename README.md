@@ -1,4 +1,8 @@
 # The Recording of Cheung
+Clone the repositories  
+```
+git clone https://github.com/gav1n-cheung/Recording
+```
 ## Computer Graphics
 ### Games101 : 闫令琪
 Video Website : [Games101](https://www.bilibili.com/video/av90798049)  
@@ -12,7 +16,7 @@ Video Website : [CS231n-斯坦福](https://www.bilibili.com/video/BV1nJ411z7fe?f
 Recording : [笔记文件](DeepLearning/CS231n.pdf)
 ### d2l : 李沐
 Video Website : [动手学深度学习-pytorch](https://courses.d2l.ai/zh-v2/)  
-Recording : [笔记文件](DeepLearing/DeepLearing.pdf)
+Recording : [笔记文件](DeepLearing/DeepLearning.pdf)
 ## CPP
 ### C++面向对象高级编程 : 侯捷
 Video Website : [GeekBand(Youtube)](https://www.youtube.com/watch?v=2S-tJaPKFdQ&list=PL-X74YXt4LVZ137kKM5dNfCIC4tsScerb)  
@@ -27,7 +31,7 @@ Website : [PCL](https://pointclouds.org/documentation/)
 Code : [已验证](https://github.com/gav1n-cheung/PCL_Study)  
 Recording : [笔记文件](https://gav1n-cheung.github.io/categories/PCL%E7%82%B9%E4%BA%91%E5%BA%93/)
 ### ShenLan PointCloud Tutorials : Li JiaXin
-Video Website : 来找我要
+Video Website : 来找我要  
 Code : [别人的实现(Nvidia供职)](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics)  
 Recording : [笔记文件](PointCloud/PointCloud.pdf)
 ### PointCloudDeepLearning : Charles R.Qi (PointNet创始人)
