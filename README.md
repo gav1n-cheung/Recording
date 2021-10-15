@@ -28,7 +28,7 @@ Code : [已验证](https://github.com/gav1n-cheung/PCL_Study)
 Recording : [笔记文件](https://gav1n-cheung.github.io/categories/PCL%E7%82%B9%E4%BA%91%E5%BA%93/)
 ### ShenLan PointCloud Tutorials : Li JiaXin
 Video Website : 来找我要
-Code : [别人的实现(Nvidia供职)](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics)
+Code : [别人的实现(Nvidia供职)](https://github.com/AlexGeControl/3D-Point-Cloud-Analytics)  
 Recording : [笔记文件](PointCloud/PointCloud.pdf)
 ### PointCloudDeepLearning : Charles R.Qi (PointNet创始人)
 Video Website : [将门创投](https://www.bilibili.com/video/BV1As411377S?from=search&seid=399830711963116604&spm_id_from=333.337.0.0)  
